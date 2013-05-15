@@ -8,3 +8,4 @@ Construit sur :
 - jQuery
 - impress.js
 - Less
+- BootStrap
